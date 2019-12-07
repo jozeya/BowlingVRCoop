@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bowling/Scenes/Menu2.unity
+    guid: 4df213393fa693a498a872e7a7f75029
+  - enabled: 1
+    path: Assets/Scenes/Bowling/Scenes/SampleScene.unity
+    guid: ef228ac9f61671249b7b98d51a869ed8
+  - enabled: 1
+    path: Assets/Scenes/Bowling/Scenes/022.unity
+    guid: 3061739e6c2245b47b9d299ded0fdc66
+  m_configObjects: {}
